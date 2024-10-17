@@ -1,0 +1,9 @@
+chromadb
+datascience
+langchain
+langchain-groq
+langchain-community
+unstructured
+selenium
+streamlit
+pandas
